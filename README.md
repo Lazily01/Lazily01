@@ -54,33 +54,13 @@ hobbies: [coding, AI, building tools, cute things]
 
 <div align="center">
 
-<!-- Streak Stats / 连续贡献天数 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lazily01&theme=radical&hide_border=true" />
+<!-- Star 装饰 -->
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true" />
 
-<!-- Stats Badges / 统计徽章 -->
-<br/>
-
-<a href="https://github.com/Lazily01">
-  <img src="https://img.shields.io/github/stars/Lazily01?style=for-the-badge&logo=github&label=%E2%AD%90%20Stars&color=yellow" />
-</a>
-<a href="https://github.com/Lazily01?tab=repositories">
-  <img src="https://img.shields.io/github/repo-count/Lazily01?style=for-the-badge&logo=github&label=%F0%9F%93%A6%20Repos&color=blue" />
-</a>
-<a href="https://github.com/Lazily01?tab=followers">
-  <img src="https://img.shields.io/github/followers/Lazily01?style=for-the-badge&logo=github&label=%F0%9F%91%A5%20Followers&color=green" />
-</a>
-<a href="https://github.com/Lazily01?tab=following">
-  <img src="https://img.shields.io/github/following/Lazily01?style=for-the-badge&logo=github&label=%F0%9F%91%8D%20Following&color=purple" />
-</a>
-
-<!-- Top Languages / 语言占比 -->
-<br/><br/>
-<a href="https://github.com/Lazily01">
-  <img src="https://img.shields.io/github/languages/top/Lazily01?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/Lazily01">
-  <img src="https://img.shields.io/github/languages/count/Lazily01?style=for-the-badge&logo=github" />
-</a>
+<!-- 翅膀 + Streak Stats -->
+<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazily01&theme=radical&hide_border=true" />
+&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
 </div>
 
