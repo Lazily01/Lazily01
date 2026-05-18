@@ -55,7 +55,7 @@ hobbies: [coding, AI, building tools, cute things]
 <div align="center">
 
 <!-- GitHub Star 2026 装饰 -->
-<img src="https://img.shields.io/badge/%E2%AD%90%20GitHub%20Star%202026-✨-gold?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true" />
 
 <!-- 翅膀 + Streak Stats -->
 <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
