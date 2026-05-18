@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7DC6F&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Lazily;AI+Agent+Developer+%7C+Python+%26+TypeScript;Always+building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7DC6F&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Lazily;Wish+you+all+the+best+%F0%9F%8C%9F+Have+a+great+day%21" alt="Typing SVG">
 
 </div>
 
@@ -31,7 +31,7 @@ hobbies: [coding, AI, building tools, cute things]
 ```
 
 - 🔭 正在做 **AI Agent** 项目 / Working on **AI Agent** projects
-- 🌱 正在学习 **一切关于 AI** 的东西 / Learning **everything about AI**
+- 🌱 正在学习 **一切关于 AI** 的东西 / Learning **everything about AI**  
 - 👯 寻找 **开源项目** 合作 / Looking to collaborate on **open source projects**
 - 💬 可以聊 **Python, TypeScript, AI Agents** / Ask me about **Python, TypeScript, AI Agents**
 - ⚡ 有趣的事: **我爱皮卡丘** ⚡ / Fun fact: **I love Pikachu** ⚡
@@ -54,8 +54,8 @@ hobbies: [coding, AI, building tools, cute things]
 
 <div align="center">
 
-<!-- Star 装饰 -->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true" />
+<!-- GitHub Star 2026 装饰 -->
+<img src="https://img.shields.io/badge/%E2%AD%90%20GitHub%20Star%202026-✨-gold?style=for-the-badge&logo=github&logoColor=white" />
 
 <!-- 翅膀 + Streak Stats -->
 <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
