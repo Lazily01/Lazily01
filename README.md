@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 打字特效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7DC6F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there+👋+I'm+Lazily;AI+Agent+Developer+%7C+Python+%26+TypeScript;Always+building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7DC6F&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Lazily;AI+Agent+Developer+%7C+Python+%26+TypeScript;Always+building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG">
 
 </div>
 
@@ -17,20 +16,25 @@ motto: "A boring person who makes interesting things"
 hobbies: [coding, AI, building tools, cute things]
 ```
 
+<a href="https://github.com/Lazily01">
+  <img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
+</a>
+
 - 🔭 I'm currently working on **AI Agent** projects
 - 🌱 I'm currently learning **everything about AI**
 - 👯 I'm looking to collaborate on **open source projects**
-- 🤔 I'm looking for help with **making AI more human**
 - 💬 Ask me about **Python, TypeScript, AI Agents**
 - ⚡ Fun fact: **I love Pikachu** ⚡
 
----
-
-## 🎮 Pokemon-Style Stats
-
 <div align="center">
 
-![GitHub Stats](https://profile-card-ten-green.vercel.app/?username=Lazily01&type=electric)
+### 📱 Social Links
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lazily01)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Lazily01&color=0e75b6&style=flat)
 
 </div>
 
@@ -40,9 +44,12 @@ hobbies: [coding, AI, building tools, cute things]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lazily01&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lazily01&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/top-langs/?username=Lazily01&layout=compact&theme=radical&hide_border=true" width="40%">
+<!-- Stats + Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazily01&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/top-langs/?username=Lazily01&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -53,6 +60,26 @@ hobbies: [coding, AI, building tools, cute things]
 <div align="center">
 
 [![Lazily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lazily01&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lazily01/Lazily01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lazily01/Lazily01/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lazily01/Lazily01/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lazily01&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -75,41 +102,6 @@ hobbies: [coding, AI, building tools, cute things]
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lazily01&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐾 Pikachu Section
-
-<div align="center">
-
-<img src="https://media.tenor.com/images/5ed8f27e0c8d4b0f8b0b0b0b0b0b0b0b/tenor.gif" width="150" alt="Pikachu Dancing">
-
-</div>
-
----
-
-## 📫 How to Reach Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lazily01)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Lazily01&color=blue&style=flat)
-
-**Thanks for visiting! Have a great day! 🌸**
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thanks%20for%20visiting!&descAlign=50&descSize=20&descAlignY=40&animation=twinkling" />
+</p>
