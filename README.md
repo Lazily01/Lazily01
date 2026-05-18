@@ -6,8 +6,22 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me / 关于我
 
+<a href="https://github.com/Lazily01">
+  <img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
+</a>
+
+**🇨🇳 中文**
+```yaml
+名字: Lazily
+坐标: 中国 🇨🇳
+方向: AI Agent 开发
+座右铭: 一个无聊的人，做有趣的事
+爱好: [编程, AI, 搞小工具, 可爱的东西]
+```
+
+**🇺🇸 English**
 ```yaml
 name: Lazily
 location: China 🇨🇳
@@ -16,19 +30,15 @@ motto: "A boring person who makes interesting things"
 hobbies: [coding, AI, building tools, cute things]
 ```
 
-<a href="https://github.com/Lazily01">
-  <img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
-</a>
-
-- 🔭 I'm currently working on **AI Agent** projects
-- 🌱 I'm currently learning **everything about AI**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Python, TypeScript, AI Agents**
-- ⚡ Fun fact: **I love Pikachu** ⚡
+- 🔭 正在做 **AI Agent** 项目 / Working on **AI Agent** projects
+- 🌱 正在学习 **一切关于 AI** 的东西 / Learning **everything about AI**
+- 👯 寻找 **开源项目** 合作 / Looking to collaborate on **open source projects**
+- 💬 可以聊 **Python, TypeScript, AI Agents** / Ask me about **Python, TypeScript, AI Agents**
+- ⚡ 有趣的事: **我爱皮卡丘** ⚡ / Fun fact: **I love Pikachu** ⚡
 
 <div align="center">
 
-### 📱 Social Links
+### 📱 社交链接 / Social Links
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lazily01)
@@ -40,14 +50,12 @@ hobbies: [coding, AI, building tools, cute things]
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 统计 / Stats
 
 <div align="center">
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lazily01&theme=radical&hide_border=true" />
 
-<!-- Stats + Top Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazily01&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/top-langs/?username=Lazily01&layout=compact&theme=radical&hide_border=true" />
 
@@ -55,7 +63,7 @@ hobbies: [coding, AI, building tools, cute things]
 
 ---
 
-## 📈 Activity Graph
+## 📈 活跃贡献图 / Activity Graph
 
 <div align="center">
 
@@ -65,7 +73,7 @@ hobbies: [coding, AI, building tools, cute things]
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 贪吃蛇贡献图 / Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lazily01/Lazily01/output/github-contribution-grid-snake-dark.svg" />
@@ -75,7 +83,7 @@ hobbies: [coding, AI, building tools, cute things]
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 成就奖杯 / Trophies
 
 <div align="center">
 
@@ -85,7 +93,7 @@ hobbies: [coding, AI, building tools, cute things]
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈 / Tech Stack
 
 <div align="center">
 
@@ -103,5 +111,5 @@ hobbies: [coding, AI, building tools, cute things]
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thanks%20for%20visiting!&descAlign=50&descSize=20&descAlignY=40&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thanks%20for%20visiting!%20%E6%84%9F%E8%B0%A2%E8%AE%BF%E9%97%AE!&descAlign=50&descSize=20&descAlignY=40&animation=twinkling" />
 </p>
